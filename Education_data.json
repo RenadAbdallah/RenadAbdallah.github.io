@@ -1,14 +1,12 @@
 {
 	"Education": [{
-		"Employer": "AT&T - WarnerMedia",
-		"Year": "2016 - 2021"
+		"School": "UC Berkeley School of Information",
+		"Degree": "Master of Information Management & Systems",
+		"Year": "2021 - 2023"
 	},
 	{
-		"Employer": "WPP - Xaxis",
-		"Year": "2015 - 2016"
-	},
-	{
-		"Employer": "Altice USA - News12",
-		"Year": "2014 - 2015"
+		"School": "Barry University",
+		"Year": "2010 - 2013"
+		"Degree": "Bachelor of Arts Advertising",
 	}]
 }
